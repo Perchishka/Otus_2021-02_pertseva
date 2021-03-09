@@ -1,4 +1,4 @@
-![GitHub commit merge status](https://img.shields.io/github/commit-status/Perchishka/Otus_2021-02_pertseva/master/1?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Perchishka/Otus_2021-02_pertseva?style=plastic)
 
 # Heading
 
@@ -7,10 +7,9 @@
 **JavaScript Course** пройденные занятия
 
 <ul>
-  <li>Microsoft</li>
-  <li>Google</li>
-  <li>Apple</li>
-  <li>IBM</li>
+  <li>Введение в автоматизацию тестирования </li>
+  <li>Git на кончиках пальцев </li>
+
 </ul>
 
 ## Develop branch changes
@@ -18,8 +17,6 @@
 **JavaScript Course** Предстоящие занятия 
 
 <ul>
-  <li>Microsoft</li>
-  <li>Google</li>
-  <li>Apple</li>
-  <li>IBM</li>
+  <li>Unit тесты и data driven testing</li>
+  <li>Основы JS. Функции</li>
 </ul>
